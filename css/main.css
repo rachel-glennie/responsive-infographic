@@ -19,3 +19,9 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
